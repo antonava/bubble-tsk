@@ -1,6 +1,6 @@
-# Test
-
 <div data-props='{"size": "H2"}' hidden></div>
+
+# Test
 
 Content here.
 
